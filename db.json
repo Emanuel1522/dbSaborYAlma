@@ -1,0 +1,178 @@
+{
+    "usuarios": [
+        {
+            "id": 1,
+            "nombre": "Emanuel",
+            "apellido": "Rojas",
+            "correo": "emanuel@gmail.com",
+            "contraseña": "emanuel"
+        },
+        {
+            "id": 2,
+            "nombre": "Jeanpier",
+            "apellido": "Moreno",
+            "correo": "jeanpier@gmail.com",
+            "contraseña": "jeanpier"
+        }
+    ],
+    "entradas": [
+        {
+            "id": 1,
+            "imagen": "/assets/menuRestaurante/tostadasNikkei.jpeg",
+            "nombre": "Tostadas Nikkei",
+            "descripcion": "Tostadas de gyozas crocantes, atún y salmón en salsa nikkei, aroma de gari, puerro crocante caramelizado.",
+            "precio": 35000
+        },
+        {
+            "id": 2,
+            "imagen": "/assets/menuRestaurante/RollitosHeisei.jpg",
+            "nombre": "Rollitos Heisei",
+            "descripcion": "Envueltos de salmón, queso philadelphia, hilos de mango, palmitos de cangrejo, salsa heisei, queso parmesano flameado.",
+            "precio": 34000
+        },
+        {
+            "id": 3,
+            "imagen": "/assets/menuRestaurante/TatakiDeAtun.jpg",
+            "nombre": "Tataki de Atún Trufado",
+            "descripcion": "Finos cortes de atún encostrados en pimienta y sellado en parrilla bañado en salsa cremosa nikkei y aceite de trufa coronado con puerro caramelizado y gyoza crocante.",
+            "precio": 39000
+        },
+        {
+            "id": 4,
+            "imagen": "/assets/menuRestaurante/TornadosDeSalmon.jpg",
+            "nombre": "Tornados de Salmón",
+            "descripcion": "Rollos de salmón rellenos de aguacate y queso philadelphia, bañados en salsa de anguila y coronados con palmitos de cangrejo.",
+            "precio": 39000
+        },
+        {
+            "id": 5,
+            "imagen": "/assets/menuRestaurante/TartarMixto.jpg",
+            "nombre": "Tartar Mixto",
+            "descripcion": "Atún y salmón en aderezo nikkei mezclados con aguacate y shoyu.",
+            "precio": 32000
+        },
+        {
+            "id": 6,
+            "imagen": "/assets/menuRestaurante/WontonesDeSalmon.jpg",
+            "nombre": "Wontones de Salmón",
+            "descripcion": "Wontones de salmón acompañados de salsa cítrica de ají amarillo y salsa rocoto.",
+            "precio": 22000
+        },
+        {
+            "id": 7,
+            "imagen": "/assets/menuRestaurante/PorkBao.jpg",
+            "nombre": "Pork Bao",
+            "descripcion": "Pan asiático al vapor, pork belly caramelizado en cocción lenta, chucrut y manzana verde.",
+            "precio": 30000
+        }
+    ],
+    "platosFuertes": [
+        {
+            "id": 8,
+            "imagen": "/assets/menuRestaurante/LomoSaborYAlma.jpg",
+            "nombre": "Lomo Sabor Y Alma",
+            "descripcion": "Lomo a término en parrilla bañado en salsa madeira, sobre un arroz cremoso a base de setas y queso azul, coronado con parmesano.",
+            "precio": 55000
+        },
+        {
+            "id": 9,
+            "imagen": "/assets/menuRestaurante/LomoSelvaEnRissotoDeAjíAmarillo.jpg",
+            "nombre": "Lomo Selva en Risotto de Ají Amarillo",
+            "descripcion": "Lomito jugoso en cama de risotto al ají amarillo diseñado con salsa de fresa y hierbabuena.",
+            "precio": 53000
+        },
+        {
+            "id": 10,
+            "imagen": "/assets/menuRestaurante/PolloTrufado.jpg",
+            "nombre": "Pollo Trufado",
+            "descripcion": "Julianas de pollo trufadas a la parrilla sobre una cama de pasta tipo Alfredo, coronadas con brotes.",
+            "precio": 37000
+        },
+        {
+            "id": 11,
+            "imagen": "/assets/menuRestaurante/SalmonCremoso.jpg",
+            "nombre": "Salmón Cremoso",
+            "descripcion": "Filete de Salmón fresco a la parrilla, bañado en salsa cremosa blanca, pasta al pesto y crema de leche, coronado con quinua crocante.",
+            "precio": 55000
+        },
+        {
+            "id": 12,
+            "imagen": "/assets/menuRestaurante/ArrozPeruano.jpeg",
+            "nombre": "Arroz Peruano de Mariscos",
+            "descripcion": "Arroz en diversidad de mariscos a base de ají amarillo y especias peruanas.",
+            "precio": 60000
+        },
+        {
+            "id": 13,
+            "imagen": "/assets/menuRestaurante/PescadoTupac.jpg",
+            "nombre": "Pescado Tupac",
+            "descripcion": "Pescado blanco crocante con camarones bañados en salsa al leño a base de licor, champiñón y panceta, acompañados de papa rústica en cascos.",
+            "precio": 46000
+        },
+        {
+            "id": 14,
+            "imagen": "/assets/menuRestaurante/TallarinesAlEstiloOriental.jpg",
+            "nombre": "Tallarines al Estilo Oriental",
+            "descripcion": "Tallarines envueltos con pulpo, calamar y camarones acompañados de pimentón, cebolla y ajonjolí bañados en salsa de anguila.",
+            "precio": 44000
+        },
+        {
+            "id": 15,
+            "imagen": "/assets/menuRestaurante/StriploinCertifiedAngusBeef.jpg",
+            "nombre": "Striploin Certified Angus Beef",
+            "descripcion": "Certified Angus Beef. Acompañantes papas rústicas o a la francesa.",
+            "precio": 90000
+        },
+        {
+            "id": 16,
+            "imagen": "/assets/menuRestaurante/PicanhaCertifiedAngus.jpg",
+            "nombre": "Picanha Certified Angus Beef",
+            "descripcion": "Certified Angus Beef. Acompañantes papas rústicas o a la francesa.",
+            "precio": 93000
+        },
+        {
+            "id": 17,
+            "imagen": "/assets/menuRestaurante/PulpoSaborYAlma.jpg",
+            "nombre": "Pulpo Sabor Y Alma",
+            "descripcion": "Pulpo al horno en cocción lenta, encostrado de yuca con parmesano flameado y chimichurri nikkei.",
+            "precio": 60000
+        }
+    ],
+    "postres": [
+        {
+            "id": 18,
+            "imagen": "/assets/menuRestaurante/CrumbleDeCaramelo.jpg",
+            "nombre": "Crumble de Caramelo",
+            "descripcion": "Trozos de galleta rellena de caramelo horneada y bañada con caramelo caliente, acompañada de fresas y helado de vainilla.",
+            "precio": 17000
+        },
+        {
+            "id": 19,
+            "imagen": "/assets/menuRestaurante/VolcanDeArequipe.jpg",
+            "nombre": "Volcán de Arequipe",
+            "descripcion": "Suave masa de galleta rellena de arequipe caliente, acompañado de helado de vainilla.",
+            "precio": 15500
+        },
+        {
+            "id": 20,
+            "imagen": "/assets/menuRestaurante/VolcanDeChocolate.jpg",
+            "nombre": "Volcán de Chocolate",
+            "descripcion": "Torta de chocolate rellena de chocolate caliente, acompañado de helado de vainilla.",
+            "precio": 15500
+        },
+        {
+            "id": 21,
+            "imagen": "/assets/menuRestaurante/TorreDeCaramelo.jpg",
+            "nombre": "Torre de Caramelo",
+            "descripcion": "Torre de galletas crocantes, helado artesanal de vainilla y caramelo salado, salsa de caramelo y nuez pecana garrapiñada.",
+            "precio": 17500
+        },
+        {
+            "id": 22,
+            "imagen": "/assets/menuRestaurante/CheescakeFrutosRojos.jpg",
+            "nombre": "Cheesecake Frutos Rojos",
+            "descripcion": "Crema de cheesecake con base de galleta bañada en salsa de frutos rojos.",
+            "precio": 13000
+        }
+    ]
+}
