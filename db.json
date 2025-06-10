@@ -18,7 +18,7 @@
     "entradas": [
         {
             "id": 1,
-            "imagen": "/assets/menuRestaurante/tostadasNikkei.jpeg",
+            "imagen": "/assets/menuRestaurante/tostadasNikkei.jpg",
             "nombre": "Tostadas Nikkei",
             "descripcion": "Tostadas de gyozas crocantes, atún y salmón en salsa nikkei, aroma de gari, puerro crocante caramelizado.",
             "precio": 35000
@@ -97,7 +97,7 @@
         },
         {
             "id": 12,
-            "imagen": "/assets/menuRestaurante/ArrozPeruano.jpeg",
+            "imagen": "/assets/menuRestaurante/ArrozPeruano.jpg",
             "nombre": "Arroz Peruano de Mariscos",
             "descripcion": "Arroz en diversidad de mariscos a base de ají amarillo y especias peruanas.",
             "precio": 60000
