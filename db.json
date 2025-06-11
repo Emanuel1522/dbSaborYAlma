@@ -24,18 +24,6 @@
         {
             "id": 2,
             "imagen": "/graficos/dos.png"
-        },
-        {
-            "id": 3,
-            "imagen": "/graficos/tres.png"
-        },
-        {
-            "id": 4,
-            "imagen": "/graficos/cuatro.png"
-        },
-        {
-            "id": 5,
-            "imagen": "/graficos/cinco.png"
         }
     ],
     "entradas": [
